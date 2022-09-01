@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Enes**
 #### I love programming, arts ,books and cats 😺
-![I love programming, arts ,books and cats 😺]![](https://images.wallpaperscraft.com/image/single/cat_muzzle_fluffy_blue_eyed_119048_3840x2160.jpg| width=100)
+![I love programming, arts ,books and cats 😺](https://images.wallpaperscraft.com/image/single/cat_muzzle_fluffy_blue_eyed_119048_3840x2160.jpg| width=100)
 
 
 - 🔭 I’m currently working on Mobile development 
