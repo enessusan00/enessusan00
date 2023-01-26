@@ -4,7 +4,7 @@
   <img src="https://images.wallpaperscraft.com/image/single/cat_muzzle_fluffy_blue_eyed_119048_3840x2160.jpg" width=50% height=50%>
 
 - 🔭 I’m currently working on Mobile development 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and UI/UX design
 - 📫 How to reach me: enessusan1@gmail.com 
 
 
