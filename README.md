@@ -13,6 +13,6 @@
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enessusan00)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enessusan00)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enessusan00&show_icons=true)  
 
