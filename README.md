@@ -4,7 +4,7 @@
   <img src="https://images.wallpaperscraft.com/image/single/cat_muzzle_fluffy_blue_eyed_119048_3840x2160.jpg" width=50% height=50%>
 
 - 🔭 I’m currently working on UI/UX
-- 🌱 I’m currently learning UI/UX design and Ruby on Rails
+- 🌱 I’m currently learning UI/UX design and Angular
 - 📫 How to reach me: enessusan1@gmail.com 
 
 
