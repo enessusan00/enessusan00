@@ -1,11 +1,9 @@
 ### Hi there 👋, my name is **Enes**
 #### I love programming, arts ,books and cats 😺
-
                             ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
                           じしˍ,)ノ
-
 - 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning UI/UX design and Angular
 - 📫 How to reach me: enessusan1@gmail.com 
