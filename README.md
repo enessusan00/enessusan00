@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is **Enes**
-#### I love programming, arts ,books and cats 😺
+#### I love programming, design and cats 😺
                             ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
