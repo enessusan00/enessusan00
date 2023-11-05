@@ -1,4 +1,4 @@
-### Hi there 👋, my name is **Enes**
+### Hi there 👋
 #### I love programming, design and cats 😺
                             ╱|、
                           (˚ˎ 。7  
