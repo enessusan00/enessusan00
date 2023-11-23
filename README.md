@@ -3,7 +3,7 @@
                             ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
-                          じしˍ,)ノ
+                          じしˍ,)7
 - 🔭 I’m currently working on UI/UX design and Angular
 - 📫 How to reach me: enessusan1@gmail.com 
 
