@@ -10,3 +10,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enessusan00&theme=yellowdark)](https://git.io/streak-stats)
 
 
+[![wakatime](https://wakatime.com/badge/user/26cc711d-edb9-4078-8b07-8cc853eeb5bf.svg)](https://wakatime.com/@26cc711d-edb9-4078-8b07-8cc853eeb5bf)
