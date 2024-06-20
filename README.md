@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on UI/UX design and Angular
 - 📫 How to reach me: enessusan1@gmail.com 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enessusan00&theme=yellowdark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=enessusan00&theme=ocean-gradient&border_radius=24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![wakatime](https://wakatime.com/badge/user/26cc711d-edb9-4078-8b07-8cc853eeb5bf.svg)](https://wakatime.com/@26cc711d-edb9-4078-8b07-8cc853eeb5bf)
