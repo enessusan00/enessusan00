@@ -23,11 +23,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=enessusan00&theme=ocean-gradient&border_radius=24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/26cc711d-edb9-4078-8b07-8cc853eeb5bf.svg)](https://wakatime.com/@26cc711d-edb9-4078-8b07-8cc853eeb5bf)
-
-</div>
 
 ### About Me
 
