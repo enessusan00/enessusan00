@@ -1,6 +1,6 @@
 # Hi, I'm Enes Susan 🤖
 
-## AI Agent Developer
+## Sofrware Engineer / AI Agent Developer
 
 <div align="center">
 
