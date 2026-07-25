@@ -1,57 +1,44 @@
-# Hi there, I'm Enes Susan 👋
+# Hi, I'm Enes Susan 🤖
 
-## UI Designer & Frontend Engineer
-
+## AI Agent Developer
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=enessusan00&theme=ocean-gradient&border_radius=24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=enessusan00&theme=ocean-gradient&border_radius=24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 </div>
 
 ### About Me
 
-I'm a UI Designer and Frontend Engineer specializing in creating intuitive and aesthetic user interfaces. With a strong foundation in frontend development and a passion for user-centered design, I bridge the gap between design and implementation to deliver high-quality digital products.
+I design and build autonomous AI agents end-to-end, from architecture to production. I'm focused on making AI systems reliable, safe, and genuinely useful in real products.
 
-- 🎨 Currently working on UI/UX design and Angular development
-- 🌱 Enhancing my skills in user experience design and advanced frontend techniques
-- 💼 Creating intuitive interfaces for complex systems
-- ⚡ I transform design concepts into functional code
+- 🤖 Building production-grade AI agents
+- 🛡️ Working on safety and evaluation layers for LLM-driven systems
+- 🧠 Exploring agent orchestration and tool-use integrations
+- 🎨 Bring a design-first mindset to everything I build
 
 ### My Focus
 
-- User-centered interface design
-- Responsive web applications
-- Interactive prototyping
-- Component-based UI systems
-- Bridging design and development
+- Autonomous agent development
+- AI safety & evaluation
+- Agent tooling and integrations
+- Turning AI capabilities into shipped products
 
 ### Connect with Me
 
 - 📫 Email: [enessusan1@gmail.com](mailto:enessusan1@gmail.com)
 - 🔗 LinkedIn: [/in/enes-susan](https://linkedin.com/in/enes-susan)
 - 🌐 Portfolio: [dribbble.com/enessusan](https://dribbble.com/enessusan)
-
-
-
-
-
-
-
-
-
